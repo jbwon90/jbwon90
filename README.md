@@ -15,8 +15,7 @@ _A portfolio of sensors, camera systems, and cloud-integrated SHM research._
 | Project | Description | Link |
 |:--|:--|:--|
 | **VID** | Visual Inspection Device with laser rangefinders & camera | [SmartInfraLabORG/VID](https://github.com/SmartInfraLabORG/VID) |
-| **JANET** | Low-power multi-sensor network for bridge monitoring | (coming soon) |
-| **IUM-V** | Low-power vibration sensor for Intelligent Understanding & Monitoring | (coming soon) |
+| **IUM** | Smart sensor network for Intelligent Understanding & Monitoring | (coming soon) |
 
 ---
 
