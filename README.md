@@ -31,7 +31,7 @@ _A portfolio of sensors, camera systems, and cloud-integrated SHM research._
 
 ## 📫 Contact
 📧 jongbinwon@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/) · [Google Scholar](https://scholar.google.com/citations?user=l7jySEoAAAAJ&hl=en&oi=ao) · [ORCID](https://orcid.org/)
+🔗 [LinkedIn](https://www.linkedin.com/) · [Google Scholar](https://scholar.google.com/citations?user=l7jySEoAAAAJ&hl=en&oi=ao) · [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-7462-3855)
 
 ---
 
